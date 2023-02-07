@@ -1,2 +1,3 @@
-import './js/arrayBuffer';
-import './js/characters';
+import '../js/arrayBuffer';
+import '../js/daemon';
+import '../js/magician';
